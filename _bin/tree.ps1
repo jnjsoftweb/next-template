@@ -11,7 +11,7 @@
 
 param (
     [string[]]$ExcludedDirs = @('.git', '.next', 'node_modules', '_docs', '_settings', '_scripts', 'backend', 'pages'),
-    [string]$OutputFile = "_docs/dev/tree_root.json",
+    [string]$OutputFile = "_bin/tree/tree_root.json",
     [switch]$IncludeFiles = $true
 )
 
