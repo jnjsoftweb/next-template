@@ -1,0 +1,39 @@
+{
+  "next-template": {
+    "src": {
+      "containers": [],
+      "constants": [],
+      "libs": [],
+      "app": {
+        "(pages)": [],
+        "assets": { "svgs": [], "fonts": [], "images": [] },
+        "(test)": { "image": [], "svg": [] },
+        "(_custom)": {
+          "_components": [],
+          "(test)": [],
+          "_containers": [],
+          "_types": [],
+          "_constants": [],
+          "_utils": [],
+          "_store": [],
+          "_service": [],
+          "_hooks": []
+        },
+        "(admin)": [],
+        "(markdown)": { "files": [] },
+        "(auth)": [],
+        "(posts)": []
+      },
+      "types": [],
+      "hooks": [],
+      "service": [],
+      "styles": [],
+      "utils": [],
+      "store": [],
+      "components": []
+    },
+    "_docs": { "env": [], "op": [], "dev": [] },
+    "_scripts": [],
+    ".vscode": []
+  }
+}
